@@ -25,4 +25,4 @@ Stories, Resources and Examples from my journey on the road to development wizar
 
 ## Tools Needed
 * [Sublime Text 3](http://www.sublimetext.com/3)
-* [Github](http://github.com)
+* [Github](https://help.github.co/)
