@@ -4,7 +4,7 @@ Stories, Resources and Examples from my journey on the road to development wizar
 ## Items of Focus 
 * [Functional Javascript](http://eloquentjavascript.net/1st_edition/chapter6.html) 
 * [Haskell - for functional programming foundation](http://learnyouahaskell.com/chapters)
-* [Isomorphic Javascript](http://nerds.airbnb.com/isomorphic-javascript-future-web-apps/)
+* [Isomorphic Javascript](#isomorphic-javascript)
 * [Command Line](http://en.wikipedia.org/wiki/Command-line_interface)
 * [Git](http://git-scm.com/)
 * [VIM text editor](http://www.openvim.com/)
@@ -29,6 +29,7 @@ Stories, Resources and Examples from my journey on the road to development wizar
 * [Angular](https://angularjs.org/)
 * [Velocity](https://github.com/julianshapiro/velocity)
 * [API](http://en.wikipedia.org/wiki/Application_programming_interface)
+* [JSDoc](http://usejsdoc.org/about-getting-started.html)
 
 
 
@@ -38,3 +39,9 @@ Stories, Resources and Examples from my journey on the road to development wizar
 * [tmux](http://tmux.github.io/) 
 * [CI](https://en.wikipedia.org/wiki/Comparison_of_continuous_integration_software)
 * [Test Driven Development](https://en.wikipedia.org/wiki/Test-driven_development)
+
+
+***
+## Isomorphic Javascript  
+* [Strongloop tutorial](https://strongloop.com/strongblog/node-js-react-isomorphic-javascript-why-it-matters/)  
+* [AirBnB](http://nerds.airbnb.com/isomorphic-javascript-future-web-apps/)
