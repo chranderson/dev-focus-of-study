@@ -1,5 +1,5 @@
-# Mastering Development Wizardry
-Stories, Resources and Examples from my journey on the road to development wizardry
+# Mastering Full Stack Javascript Development
+Stories, Resources and Examples from my journey on the road to master full stack javascript development.
 
 ## Items of Focus 
 * [Ampersand](#ampersand)
