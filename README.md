@@ -22,6 +22,7 @@ Stories, Resources and Examples from my journey on the road to master full stack
 * [Isomorphic Javascript](#isomorphic-javascript)
 * [Javascript](#javascript)
 * [JSDoc](#jsdoc)
+* [Microservices](#microservices)
 * [MongoDB](#mongodb)
 * [Mongoose](#mongoose)
 * [NGINX](#nginx)
@@ -126,7 +127,12 @@ _Also known as ECMAScript (the untrademarked name used for the standard), Javasc
 
 ## JSDoc  
 _An API documentation generator for JavaScript._  
-[Official Page](http://usejsdoc.org/about-getting-started.html)
+[Official Page](http://usejsdoc.org/about-getting-started.html)  
+
+## Microservices  
+_a software architecture style in which complex applications are composed of small, independent processes communicating with each other using language-agnostic APIs_
+[Wikipedia](https://en.wikipedia.org/wiki/Microservices)  
+[Microservices.io](http://microservices.io/)
 
 ## MongoDB  
 _MongoDB (from humongous) is a cross-platform document-oriented database. Classified as a NoSQL database, MongoDB eschews the traditional table-based relational database structure in favor of JSON-like documents with dynamic schemas (MongoDB calls the format BSON), making the integration of data in certain types of applications easier and faster._  
@@ -143,7 +149,8 @@ _Nginx (pronounced engine-x) is a free, open-source, high-performance HTTP serve
 ## Node  
 _Node.js is an open source, cross-platform runtime environment for server-side and networking applications. Node.js applications are written in JavaScript and can be run within the Node.js runtime on OS X, Microsoft Windows, Linux, FreeBSD, NonStop, IBM AIX, IBM System z and IBM i._  
 [Official Page](https://nodejs.org/)  
-[NodeMailer](http://www.nodemailer.com/)
+[NodeMailer](http://www.nodemailer.com/)  
+[PM2](https://github.com/Unitech/pm2)
 
 ## React  
 _A Javascript library for building user interfaces._  
