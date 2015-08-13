@@ -12,7 +12,7 @@ Stories, Resources and Examples from my journey on the road to master full stack
 * [D3](#d3)
 * [Express](#express)
 * [Firebase](#firebase)
-* [Functional Javascript](#functional-javascript)
+* [Functional Programming](#functional-programming)
 * [Git](#git)
 * [Grunt](#grunt)
 * [Gulp](#gulp)
@@ -22,13 +22,15 @@ Stories, Resources and Examples from my journey on the road to master full stack
 * [Isomorphic Javascript](#isomorphic-javascript)
 * [Javascript](#javascript)
 * [JSDoc](#jsdoc)
-* [Microservices](#microservices)
+* [Micro Services](#micro-services)
 * [MongoDB](#mongodb)
 * [Mongoose](#mongoose)
 * [NGINX](#nginx)
 * [Node.JS](#node)
+* [Object Oriented Programming](#object-oriented-programming)
 * [React](#react)
 * [REDIS](#redis)
+* [Regular Expressions](#regular-expressions)
 * [Sendy](#sendy)
 * [Test Driven Development](#test-driven-development)
 * [Velocity](#velocity)
@@ -53,14 +55,19 @@ _A JavaScript MVC framework developed by Google that lets you build well structu
 ## API  
 _Application Programming Interface (API) is a set of routines, protocols, and tools for building software applications_  
 [Wikipedia](http://en.wikipedia.org/wiki/Application_programming_interface)  
+[RESTful wiki](https://en.wikipedia.org/wiki/Representational_state_transfer) - _Representational State Transfer_ 
+[RESTful API](http://www.restapitutorial.com/) - _tutorial_
 
 ## Command Line Interface  
 _A (CLI) is a means of interacting with a computer program where the user (or client) issues commands to the program in the form of successive lines of text_  
 [Wikipedia](http://en.wikipedia.org/wiki/Command-line_interface)  
+[Learn Code the Hard Way](http://cli.learncodethehardway.org/) - _tutorial_
 
 ## Continuous Delivery  
 _Continuous Delivery (CD) is a software engineering approach in which teams keep producing valuable software in short cycles and ensure that the software can be reliably released at any time._  
 [Wikipedia](https://en.wikipedia.org/wiki/Continuous_delivery)  
+[Continuous Delivery](http://continuousdelivery.com/) - _book by: Humble & Farley_  
+[Martin Fowler](http://martinfowler.com/delivery.html) - _continuous delivery expert_
 
 ## Continuous Integration  
 _Continuous Integration (CI) is a development practice that requires developers to integrate code into a shared repository several times a day. Each check-in is then verified by an automated build, allowing teams to detect problems early._  
@@ -83,9 +90,9 @@ _A minimal and flexible Node.js web application framework that provides a robust
 _Paid realtime API service that can handle data storage, user authentication, static hosting._  
 [Official Page](https://www.firebase.com/docs/)  
 
-## Functional Javascript  
+## Functional Programming  
 _Functional programming provides developers with the tools to abstract common collection operations into reusable, composable building blocks._  
-[Eloquent Javascript](http://eloquentjavascript.net/1st_edition/chapter6.html)  
+[Eloquent Javascript](http://eloquentjavascript.net/1st_edition/chapter6.html) - _chapter covering functional js_
 [Functional Javascript Workshop](https://github.com/timoxley/functional-javascript-workshop)  
 
 ## Git  
@@ -120,23 +127,23 @@ The backend and frontend share the same code._
 
 ## Javascript  
 _Also known as ECMAScript (the untrademarked name used for the standard), Javascript is a dynamic programming language, most often used as part of web browsers._  
-[JavaScript Allongé](https://leanpub.com/javascriptallongesix/read)  
-[Eloquent Javascript](http://eloquentjavascript.net/)  
-[Human Javascript](http://read.humanjavascript.com/)  
+[JavaScript Allongé](https://leanpub.com/javascriptallongesix/read) - _book_  
+[Eloquent Javascript](http://eloquentjavascript.net/) - _book_  
+[Human Javascript](http://read.humanjavascript.com/) - _book_  
 [Mozilla Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
 
 ## JSDoc  
 _An API documentation generator for JavaScript._  
 [Official Page](http://usejsdoc.org/about-getting-started.html)  
 
-## Microservices  
-_a software architecture style in which complex applications are composed of small, independent processes communicating with each other using language-agnostic APIs_
+## Micro Services  
+_A software architecture style in which complex applications are composed of small, independent processes communicating with each other using language-agnostic APIs_  
 [Wikipedia](https://en.wikipedia.org/wiki/Microservices)  
-[Microservices.io](http://microservices.io/)
+[Microservices.io](http://microservices.io/)  
 
 ## MongoDB  
 _MongoDB (from humongous) is a cross-platform document-oriented database. Classified as a NoSQL database, MongoDB eschews the traditional table-based relational database structure in favor of JSON-like documents with dynamic schemas (MongoDB calls the format BSON), making the integration of data in certain types of applications easier and faster._  
-[Official Page](https://www.mongodb.org/)
+[Official Page](https://www.mongodb.org/)  
 
 ## Mongoose  
 _MongoDB object modeling designed to work in an asynchronous environment._  
@@ -149,8 +156,18 @@ _Nginx (pronounced engine-x) is a free, open-source, high-performance HTTP serve
 ## Node  
 _Node.js is an open source, cross-platform runtime environment for server-side and networking applications. Node.js applications are written in JavaScript and can be run within the Node.js runtime on OS X, Microsoft Windows, Linux, FreeBSD, NonStop, IBM AIX, IBM System z and IBM i._  
 [Official Page](https://nodejs.org/)  
-[NodeMailer](http://www.nodemailer.com/)  
-[PM2](https://github.com/Unitech/pm2)
+[NodeMailer](http://www.nodemailer.com/) - _docs_  
+[PM2](https://github.com/Unitech/pm2) - _docs_  
+[LearnYouNode](https://github.com/workshopper/learnyounode) - _tutorial_  
+[NodeSchool](http://nodeschool.io/#workshoppers) - _tutorials_  
+[Egghead Node.js](https://egghead.io/technologies/node) - _tutorials_  
+[Scotch.io](https://scotch.io/tag/node-js) - _tutorials_  
+
+## Object Oriented Programming
+_Object-oriented programming (OOP) is a programming paradigm that uses abstraction to create models based on the real world. OOP uses several techniques from previously established paradigms, including modularity, polymorphism, and encapsulation._  
+[Wiki](https://en.wikipedia.org/wiki/Object-oriented_programming)  
+[OO Javascript Mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript) - _docs_  
+[Javascript is Sexy - OO](http://javascriptissexy.com/oop-in-javascript-what-you-need-to-know/) - _book_  
 
 ## React  
 _A Javascript library for building user interfaces._  
@@ -160,6 +177,14 @@ _A Javascript library for building user interfaces._
 ## Redis  
 _Redis is an open source, BSD licensed, advanced key-value cache and store. It is often referred to as a data structure server since keys can contain strings, hashes, lists, sets, sorted sets, bitmaps and hyperloglogs._  
 [Official Page](http://redis.io/)
+
+## Regular Expressions
+_aka Regex - A sequence of characters that define a search pattern, mainly for use in pattern matching with strings, or string matching, i.e. "find and replace"-like operations._  
+[Wiki](https://en.wikipedia.org/wiki/Regular_expression)  
+[Regex Sandbox](http://www.regexr.com/) - _sandbox & tutorials_  
+[Regex on Mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions) - _docs_  
+[Learn Code the Hard Way](http://regex.learncodethehardway.org/) - _tutorial_  
+
 
 ## Sendy 
 _Sendy is a self hosted email newsletter application that lets you send trackable emails via Amazon Simple Email Service (SES). This makes it possible for you to send authenticated bulk emails at an insanely low price without sacrificing deliverability._  
