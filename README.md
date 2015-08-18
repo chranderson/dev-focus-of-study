@@ -11,7 +11,8 @@ Stories, Resources and Examples from my journey on the road to master full stack
 * [CSS](#css)
 * [D3](#d3)
 * [Express](#express)
-* [Firebase](#firebase)
+* [Firebase](#firebase)  
+* [Falcor](#falcor)
 * [Functional Programming](#functional-programming)
 * [Git](#git)
 * [Grunt](#grunt)
@@ -85,6 +86,12 @@ _D3.js is a JavaScript library for manipulating documents based on data and help
 ## Express  
 _A minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications._  
 [Official Page](http://expressjs.com/)  
+
+## Falcor  
+created by Netflix  
+_A JavaScript library for efficient data fetching._  
+[github](https://github.com/Netflix/falcor)  
+[site](http://netflix.github.io/falcor/)  
 
 ## Firebase  
 _Paid realtime API service that can handle data storage, user authentication, static hosting._  
