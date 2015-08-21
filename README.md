@@ -205,8 +205,11 @@ _a software development process that emerged from test-driven development (TDD).
 [Chai](http://chaijs.com/)  
 _Chai is a BDD / TDD assertion library for node and the browser that can be paired with any javascript testing framework._  
 
+[Cucumber](https://cucumber.io/)  
+_Open source BDD tool. Keep specifications, automated tests and documentation in the same place_  
+
 [Integration Testing](https://en.wikipedia.org/wiki/Integration_testing)  
-_the phase in software testing in which individual software modules are combined and tested as a group. It occurs after unit testing and before validation testing. Integration testing takes as its input modules that have been unit tested, groups them in larger aggregates, applies tests defined in an integration test plan to those aggregates, and delivers as its output the integrated system ready for system testing._  
+_The phase in software testing in which individual software modules are combined and tested as a group. It occurs after unit testing and before validation testing. Integration testing takes as its input modules that have been unit tested, groups them in larger aggregates, applies tests defined in an integration test plan to those aggregates, and delivers as its output the integrated system ready for system testing._  
 
 [Jasmine](https://github.com/jasmine/jasmine)  
 _Behavior Driven Development testing framework for JavaScript. It does not rely on browsers, DOM, or any JavaScript framework._   
@@ -214,11 +217,17 @@ _Behavior Driven Development testing framework for JavaScript. It does not rely 
 [Jest](https://facebook.github.io/jest/)  
 _Facebook's javascript unit testing framework_  
 
+[jsdom](https://github.com/tmpvar/jsdom)  
+_A JavaScript implementation of the WHATWG DOM and HTML standards_  
+
 [Karma](http://karma-runner.github.io/0.13/index.html)  
 _Test runner for testing frameworks. Test framework agnostic_  
 
 [Mocha](https://mochajs.org/)  
 _Javascript test framework - async, runs serially._  
+
+[Sinon](http://sinonjs.org/)  
+_Standalone test spies, stubs and mocks for JavaScript.No dependencies, works with any unit testing framework._  
 
 [Test Driven Development (TDD)](https://en.wikipedia.org/wiki/Test-driven_development)  
 _A software development process that relies on the repetition of a very short development cycle: first the developer writes an (initially failing) automated test case that defines a desired improvement or new function, then produces the minimum amount of code to pass that test, and finally refactors the new code to acceptable standards._  
