@@ -33,7 +33,7 @@ Stories, Resources and Examples from my journey on the road to master full stack
 * [REDIS](#redis)
 * [Regular Expressions](#regular-expressions)
 * [Sendy](#sendy)
-* [Test Driven Development](#test-driven-development)
+* [Testing](#testing)
 * [Velocity](#velocity)
 * [VIM text editor](#vim)
 
@@ -197,9 +197,35 @@ _aka Regex - A sequence of characters that define a search pattern, mainly for u
 _Sendy is a self hosted email newsletter application that lets you send trackable emails via Amazon Simple Email Service (SES). This makes it possible for you to send authenticated bulk emails at an insanely low price without sacrificing deliverability._  
 [Official Page](http://sendy.co/api)
 
-## Test Driven Development
-_Test-driven development (TDD) is a software development process that relies on the repetition of a very short development cycle: first the developer writes an (initially failing) automated test case that defines a desired improvement or new function, then produces the minimum amount of code to pass that test, and finally refactors the new code to acceptable standards._  
-[Wikipedia](https://en.wikipedia.org/wiki/Test-driven_development)
+## Testing  
+
+[Behavior Driven Development (BDD)](https://en.wikipedia.org/wiki/Behavior-driven_development)  
+_a software development process that emerged from test-driven development (TDD). Behavior-driven development combines the general techniques and principles of TDD with ideas from domain-driven design and object-oriented analysis and design to provide software development and management teams with shared tools and a shared process to collaborate on software development._  
+
+[Chai](http://chaijs.com/)  
+_Chai is a BDD / TDD assertion library for node and the browser that can be paired with any javascript testing framework._  
+
+[Integration Testing](https://en.wikipedia.org/wiki/Integration_testing)  
+_the phase in software testing in which individual software modules are combined and tested as a group. It occurs after unit testing and before validation testing. Integration testing takes as its input modules that have been unit tested, groups them in larger aggregates, applies tests defined in an integration test plan to those aggregates, and delivers as its output the integrated system ready for system testing._  
+
+[Jasmine](https://github.com/jasmine/jasmine)  
+_Behavior Driven Development testing framework for JavaScript. It does not rely on browsers, DOM, or any JavaScript framework._   
+
+[Jest](https://facebook.github.io/jest/)  
+_Facebook's javascript unit testing framework_  
+
+[Karma](http://karma-runner.github.io/0.13/index.html)  
+_Test runner for testing frameworks. Test framework agnostic_  
+
+[Mocha](https://mochajs.org/)  
+_Javascript test framework - async, runs serially._  
+
+[Test Driven Development (TDD)](https://en.wikipedia.org/wiki/Test-driven_development)  
+_A software development process that relies on the repetition of a very short development cycle: first the developer writes an (initially failing) automated test case that defines a desired improvement or new function, then produces the minimum amount of code to pass that test, and finally refactors the new code to acceptable standards._  
+
+[Unit Testing](https://en.wikipedia.org/wiki/Unit_testing)  
+_A software testing method by which individual units of source code, sets of one or more computer program modules together with associated control data, usage procedures, and operating procedures, are tested to determine whether they are fit for use._  
+
 
 ## Velocity 
 _Velocity is an animation engine with the same API as jQuery's $.animate(). It works with and without jQuery. It's incredibly fast, and it features color animation, transforms, loops, easings, SVG support, and scrolling._  
