@@ -20,7 +20,7 @@
 > [**206** Partial Content](#206-partial-content)  
 > [**207** Multi-Status](#207-multi-status)  
 > [**208** Already Reported](#208-already-reported)  
-> [**226** IM Used](#im-used) (RFC 3229)  
+> [**226** IM Used](#226-im-used) (RFC 3229)  
 
 
 ## 3xx Redirection  
