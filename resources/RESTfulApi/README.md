@@ -1,7 +1,7 @@
 # RESTful API Resources  
 
 ## Key Items  
-> [Hypermedia as the engine of application state](https://en.wikipedia.org/wiki/Hypermedia)  
+> [HATEOAS](https://en.wikipedia.org/wiki/Hypermedia) (Hypermedia as the engine of application state)  
 > [HTTP codes](../HTTP)  
 
 ## Blog Posts  
