@@ -8,7 +8,8 @@ Stories, Resources and Examples from my journey on the road to master full stack
 * [Command Line Interface](#command-line-interface)
 * [Continuous Delivery](#continuous-delivery)
 * [CI](#continuous-integration)
-* [CSS](#css)
+* [CSS](#css)  
+* [DOM](#dom)  
 * [D3](#d3)
 * [Express](#express)
 * [Firebase](#firebase)  
@@ -82,6 +83,10 @@ _Cascading Style Sheets (CSS) is a style sheet language used for describing the 
 ## D3 
 _D3.js is a JavaScript library for manipulating documents based on data and helps you bring data to life using HTML, SVG, and CSS._  
 [Official Page](http://d3js.org/)  
+
+## DOM  
+_The Document Object Model (DOM) is a programming interface for HTML, XML and SVG documents. It provides a structured representation of the document (a tree) and it defines a way that the structure can be accessed from programs so that they can change the document structure, style and content. The DOM provides a representation of the document as a structured group of nodes and objects that have properties and methods. Nodes can also have event handlers attached to them, and once that event is triggered the event handlers get executed. Essentially, it connects web pages to scripts or programming languages._  
+[MDN DOM docs](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
 
 ## Express  
 _A minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications._  
