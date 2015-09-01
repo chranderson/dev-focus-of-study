@@ -1,10 +1,23 @@
 # RESTful API Notes 
 Description here.  
 
+## Best Practices  
 
-## Key Items  
-[HATEOAS](https://en.wikipedia.org/wiki/Hypermedia) (Hypermedia as the engine of application state)  
-[HTTP codes](../HTTP)  
+
+
+
+## Key Terms & Items  
+
+[**HATEOAS**](https://en.wikipedia.org/wiki/Hypermedia)  
+Hypermedia as the engine of application state  
+
+
+[**HTTP codes**](../HTTP)  
+Web server response codes.  
+
+
+**Resource**  
+Description here.  
 
 
 ## Books  
