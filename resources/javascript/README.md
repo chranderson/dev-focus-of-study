@@ -1,6 +1,6 @@
 # Javascript Resources
 
-### Items to Note  
+## Items to Note  
 
 **Don't Repeat Yourself** (DRY)  
 > Write reusable functions that express a lot in very little code.  
@@ -16,7 +16,7 @@
 
   
 
-### Functions  
+## Functions  
 
 
 **_Function Declaration_**  
@@ -41,12 +41,12 @@
 
 
 
-### Books  
+## Books  
 >[Javascript for Cats](http://jsforcats.com/)  
 >[Eloquent Javascript](http://eloquentjavascript.net/)  
 
 
-### Node.JS  
+## Node.JS  
 >[Node.JS Documentation](https://nodejs.org/documentation/)  
 >[NodeSchool](http://nodeschool.io/)  
 >[LearnYouNode](https://github.com/rvagg/learnyounode)  
