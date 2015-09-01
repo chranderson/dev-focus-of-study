@@ -14,4 +14,5 @@ Description here.
 
 
 ## Videos  
-[Secrets of Awesome JavaScript API Design](https://www.youtube.com/watch?v=QlQm786MClE)  
+[Secrets of Awesome JavaScript API Design](https://www.youtube.com/watch?v=QlQm786MClE) YouTube  
+
