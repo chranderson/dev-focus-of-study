@@ -13,8 +13,6 @@ Don't create cryptic functions, other people need to be able to read and debug t
 Self explainatory  
 
   
-
-
 ## Functions  
 
 ### Closures  
@@ -77,7 +75,17 @@ Commonly used to:
 
 ## Books  
 [Javascript for Cats](http://jsforcats.com/)  
-[Eloquent Javascript](http://eloquentjavascript.net/)  
+[JavaScript Allongé](https://leanpub.com/javascriptallongesix/read) | by: _Reg “raganwald” Braithwaite_   
+[Eloquent Javascript](http://eloquentjavascript.net/) | by: _Marijn Haverbeke_  
+[Human Javascript](http://read.humanjavascript.com/) | by: _Henrik Joreteg_  
+[Javascript: The Definitive Guide, 6th Edition](http://shop.oreilly.com/product/9780596805531.do) | by: _David Flanagan_  
+[Functional Javascript](http://shop.oreilly.com/product/0636920028857.do) | by: _Michael Fogus_  
+[Programming Javascript Applications](http://chimera.labs.oreilly.com/books/1234000000262/index.html) | by: _Eric Elliott_  
+
+
+
+## Documentation  
+[Mozilla Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
 
 
 ## Node.JS  
