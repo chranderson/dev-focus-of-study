@@ -17,6 +17,11 @@
 
 ## Functions  
 
+### Closures  
+A _closure_ stores function state, even after the function has returned.  
+Commonly used to:  
+* give objects data privacy
+* feed data to event handlers or callbacks, which might get triggered after the containing function has finished  
 
 ### Function Declaration  
 
@@ -24,7 +29,6 @@ Example
 > `function hello(world) { console.log('hello ' + world); }; `  
 
 > `hello(world);`
-
 
 
 ### Function Expression    
@@ -46,6 +50,18 @@ Example
 > `hello(world);`
 
 
+### IIFE  
+_Immediately Invoked Function Expression_. Pronounced: "_iffy_"  
+Often used to create a new scope to encapsulate modules.
+
+Example  
+> `( function foo() { ... }());`  
+
+
+### Hoisting  
+The illusion that all variable declarations are _"hoisted"_ to the top of the containing function.  
+Javascript builds its execution environment in two passes. The declaration pass sets up the runtime environment, where it scans for all variable and function declarations and creates the identifiers. The second is the execution pass.  
+
 
 ### Lambdas  
 A _lambda_ is a function used as data. Lambdas can be used as:  
@@ -61,7 +77,6 @@ Commonly used to:
 * Wrap existing functions with additional functionality (ie: logging).
 * Take a function that requires multiple params, and return a function that requires fewer params.
 * Return a function from another function. 
-
 
 
 ## Books  
