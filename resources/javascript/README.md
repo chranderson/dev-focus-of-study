@@ -1,16 +1,16 @@
 # Javascript Notes  
 
 **Don't Repeat Yourself** (DRY)  
-> Write reusable functions that express a lot in very little code.  
+Write reusable functions that express a lot in very little code.  
 
 **Do One Thing** (DOT)  
-> Each function should only do *one* thing. This will make the function more reusable, readable, and easier to debug.  
+Each function should only do *one* thing. This will make the function more reusable, readable, and easier to debug.  
 
 **Keep It Simple Stupid** (KISS)  
-> Don't create cryptic functions, other people need to be able to read and debug them.  
+Don't create cryptic functions, other people need to be able to read and debug them.  
 
 **Less Is More**  
-> Self explainatory  
+Self explainatory  
 
   
 
