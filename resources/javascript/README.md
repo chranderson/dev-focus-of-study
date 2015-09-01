@@ -1,6 +1,4 @@
-# Javascript Resources
-
-## Items to Note  
+# Javascript Notes  
 
 **Don't Repeat Yourself** (DRY)  
 > Write reusable functions that express a lot in very little code.  
@@ -15,6 +13,7 @@
 > Self explainatory  
 
   
+
 
 ## Functions  
 
