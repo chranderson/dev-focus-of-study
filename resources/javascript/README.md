@@ -26,9 +26,7 @@ Commonly used to:
 ### Function Declaration  
 
 Example  
-> `function hello(world) { console.log('hello ' + world); }; `  
-
-> `hello(world);`
+`function hello(world) { console.log('hello ' + world); }; `  
 
 
 ### Function Expression    
@@ -45,9 +43,7 @@ Other Items to Note
 * _Function expressions_ assigned to object literals are sometimes called _method literals_.  
 
 Example  
-> ` var hello = function (world) { console.log('hello ' + world); }  `  
-
-> `hello(world);`
+` var hello = function (world) { console.log('hello ' + world); }  `  
 
 
 ### IIFE  
@@ -55,7 +51,7 @@ _Immediately Invoked Function Expression_. Pronounced: "_iffy_"
 Often used to create a new scope to encapsulate modules.
 
 Example  
-> `( function foo() { ... }());`  
+`( function foo() { ... }());`  
 
 
 ### Hoisting  
