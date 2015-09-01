@@ -139,6 +139,8 @@ The backend and frontend share the same code._
 
 ## Javascript  
 _Also known as ECMAScript (the untrademarked name used for the standard), Javascript is a dynamic programming language, most often used as part of web browsers._  
+[Notes](./resources/javascript/)  
+[Examples](.resources/javascript/examples/)  
 [JavaScript Allongé](https://leanpub.com/javascriptallongesix/read) - _book_  
 [Eloquent Javascript](http://eloquentjavascript.net/) - _book_  
 [Human Javascript](http://read.humanjavascript.com/) - _book_  
