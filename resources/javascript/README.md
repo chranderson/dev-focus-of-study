@@ -74,6 +74,7 @@ Commonly used to:
 
 
 ## Books  
+[ES6 - Exploring JS](http://exploringjs.com/es6/)  
 [Javascript for Cats](http://jsforcats.com/)  
 [JavaScript Allongé](https://leanpub.com/javascriptallongesix/read) | by: _Reg “raganwald” Braithwaite_   
 [Eloquent Javascript](http://eloquentjavascript.net/) | by: _Marijn Haverbeke_  
