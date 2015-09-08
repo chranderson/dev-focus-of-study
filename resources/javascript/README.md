@@ -72,6 +72,9 @@ Commonly used to:
 * Take a function that requires multiple params, and return a function that requires fewer params.
 * Return a function from another function. 
 
+## Compatibility  
+[ES6 Compatibility Table](http://kangax.github.io/compat-table/es6/)  
+
 
 ## Books  
 [ES6 - Exploring JS](http://exploringjs.com/es6/)  
