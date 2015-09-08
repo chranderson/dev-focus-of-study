@@ -73,7 +73,7 @@ Commonly used to:
 * Return a function from another function. 
 
 ## Compatibility  
-[ES6 Compatibility Table](http://kangax.github.io/compat-table/es6/)  
+[Kangax’ ES6 compatibility table](http://kangax.github.io/compat-table/es6/)  
 
 
 ## Books  
