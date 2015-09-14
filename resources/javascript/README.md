@@ -44,6 +44,17 @@ Example
 ` var hello = function (world) { console.log('hello ' + world); }  `  
 
 
+### Generator (es6)  
+A generator is a special type of function that works as a factory for iterators. A function becomes a generator if it contains one or more yield expressions and if it uses the function* syntax.  
+`function *foo() {...}`  
+
+#### Keywords  
+* **yield**:  Pause function. Can only be called from inside function.
+
+Resources:  
+[David Walsh](http://davidwalsh.name/es6-generators) 
+
+
 ### IIFE  
 _Immediately Invoked Function Expression_. Pronounced: "_iffy_"  
 Often used to create a new scope to encapsulate modules.
