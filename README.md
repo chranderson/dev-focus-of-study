@@ -174,6 +174,7 @@ _Node.js is an open source, cross-platform runtime environment for server-side a
 [NodeSchool](http://nodeschool.io/#workshoppers) - _tutorials_  
 [Egghead Node.js](https://egghead.io/technologies/node) - _tutorials_  
 [Scotch.io](https://scotch.io/tag/node-js) - _tutorials_  
+[The 12 Factor App Manifesto](http://12factor.net/) - _book_  
 
 ## Object Oriented Programming
 _Object-oriented programming (OOP) is a programming paradigm that uses abstraction to create models based on the real world. OOP uses several techniques from previously established paradigms, including modularity, polymorphism, and encapsulation._  
