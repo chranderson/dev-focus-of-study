@@ -83,6 +83,13 @@ Commonly used to:
 * Take a function that requires multiple params, and return a function that requires fewer params.
 * Return a function from another function. 
 
+### Trie
+Also called digital tree and sometimes radix tree or prefix tree (as they can be searched by prefixes), is an ordered tree data structure that is used to store a dynamic set or associative array where the keys are usually strings.  
+[Wikipedia](https://en.wikipedia.org/wiki/Trie)  
+[JavaScript Trie Performance Analysis](http://ejohn.org/blog/javascript-trie-performance-analysis/)  
+[Learning About Smalltalk](http://www.atariarchives.org/bcc1/showpage.php?page=61)  
+
+
 ## Compatibility  
 [Kangax’ ES6 compatibility table](http://kangax.github.io/compat-table/es6/)  
 
