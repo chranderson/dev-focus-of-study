@@ -12,6 +12,7 @@ Stories, Resources and Examples from my journey on the road to master full stack
 * [DOM](#dom)  
 * [D3](#d3)
 * [Express](#express)
+* [Elm](#elm)
 * [Firebase](#firebase)  
 * [Falcor](#falcor)
 * [Functional Programming](#functional-programming)
@@ -87,6 +88,11 @@ _D3.js is a JavaScript library for manipulating documents based on data and help
 ## DOM  
 _The Document Object Model (DOM) is a programming interface for HTML, XML and SVG documents. It provides a structured representation of the document (a tree) and it defines a way that the structure can be accessed from programs so that they can change the document structure, style and content. The DOM provides a representation of the document as a structured group of nodes and objects that have properties and methods. Nodes can also have event handlers attached to them, and once that event is triggered the event handlers get executed. Essentially, it connects web pages to scripts or programming languages._  
 [MDN DOM docs](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
+
+## Elm
+_The Elm Architecture is a simple pattern for infinitely nestable components. It is great for modularity, code reuse, and testing. Ultimately, this pattern makes it easy to create complex web apps in a way that stays modular._  
+[Elm Language](http://elm-lang.org/)  
+[Elm Architecture Tutorial](https://github.com/evancz/elm-architecture-tutorial/)  
 
 ## Express  
 _A minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications._  
@@ -185,7 +191,8 @@ _Object-oriented programming (OOP) is a programming paradigm that uses abstracti
 ## React  
 _A Javascript library for building user interfaces._  
 [Official Page](http://facebook.github.io/react/)  
-[React Native](https://facebook.github.io/react-native/)
+[React Native](https://facebook.github.io/react-native/)  
+[Redux](https://github.com/rackt/redux) is a predictable state container for JavaScript apps.    
 
 ## Redis  
 _Redis is an open source, BSD licensed, advanced key-value cache and store. It is often referred to as a data structure server since keys can contain strings, hashes, lists, sets, sorted sets, bitmaps and hyperloglogs._  
